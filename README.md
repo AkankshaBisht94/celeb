@@ -1,3 +1,3 @@
-# celeb
+# Celeb-AI
 
 Demonstration
