@@ -1,1 +1,1 @@
-# celeb
+# Celeb-AI
